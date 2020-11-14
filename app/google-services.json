@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "687042299675",
+    "firebase_url": "https://ecosemana11.firebaseio.com",
+    "project_id": "ecosemana11",
+    "storage_bucket": "ecosemana11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687042299675:android:ac580ebca5da3c9b9b35be",
+        "android_client_info": {
+          "package_name": "com.example.firebaseex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687042299675-v34401gp708re1ftlg0vbccm9gvffak5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV76RFBy8oPA-NlgGJqf9vB5nZ0BE11Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687042299675-v34401gp708re1ftlg0vbccm9gvffak5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687042299675:android:b23c63e90918995a9b35be",
+        "android_client_info": {
+          "package_name": "com.example.phoneclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687042299675-v34401gp708re1ftlg0vbccm9gvffak5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV76RFBy8oPA-NlgGJqf9vB5nZ0BE11Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687042299675-v34401gp708re1ftlg0vbccm9gvffak5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687042299675:android:44cbd2f2f4cd88909b35be",
+        "android_client_info": {
+          "package_name": "com.example.semana12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687042299675-o8npjvrb3dooud4err1bila1ppg835e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.semana12",
+            "certificate_hash": "3e6cb42b5f8af929856444b1c38796977b688eac"
+          }
+        },
+        {
+          "client_id": "687042299675-v34401gp708re1ftlg0vbccm9gvffak5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV76RFBy8oPA-NlgGJqf9vB5nZ0BE11Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687042299675-v34401gp708re1ftlg0vbccm9gvffak5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
