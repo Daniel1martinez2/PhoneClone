@@ -41,6 +41,7 @@ public class Contacts extends AppCompatActivity implements View.OnClickListener 
 
         if(auth.getCurrentUser() ==null){
             goToLogin();
+            
         }else {
             ActivityCompat.requestPermissions(this,new String[]{
                     Manifest.permission.CALL_PHONE,
